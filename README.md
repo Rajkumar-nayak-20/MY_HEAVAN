@@ -36,7 +36,7 @@ A modern, responsive hotel booking website for **Heaven** — designed to showca
 
 ## 📸 Preview
 
-![Website Screenshot](assets/h1,png)
+![Website Screenshot](h1.png)
 
 ## 🚀 How to Run Locally
 
@@ -61,5 +61,6 @@ Right click index.html -> "Open with Live Server"
 **Developer:** Rajkumar Nayak
 **Email:** [info@hotelheaven.com](mailto:info@hotelheaven.com)
 **Phone:** +91 9913127632
+
 
 
